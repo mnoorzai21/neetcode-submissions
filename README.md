@@ -1,4 +1,7 @@
 # NeetCode Solutions — @mnoorzai21
+My daily practice of the NeetCode 150 in JavaScript, preparing for software engineering interviews.
+
+For each problem, I write my approach and its time and space complexity as comments at the top of the solution.
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
